@@ -1,2 +1,3 @@
-# CAREER-CAMPUS-INTELLIGENT-CAREER-PATH-RECOMMENDATION-SYSTEM-USING-AI-ML
-Career recommendation site which guide through out the career
+# INTELLIGENT CAREER GUIDANCE SYSTEM
+
+Youtube video link: https://www.youtube.com/watch?v=fMQfYWDIpWU
